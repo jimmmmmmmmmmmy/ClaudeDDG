@@ -1,4 +1,4 @@
 streamlit
-phi-assistant
-duckduckgo-search
+phidata
+duckduckgo_search
 anthropic
